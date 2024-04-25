@@ -8,3 +8,5 @@ W
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 Y
 )src/main/java/com/jakobniinja/Framed.java,6\e\6e8b1f907d49f0a6a705830263fd62d7fa5925bd
+^
+.src/main/java/com/jakobniinja/LightButton.java,1\9\198d2d189e619e78b9ea079a1b54fdf47a9845a9
